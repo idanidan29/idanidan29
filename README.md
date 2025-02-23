@@ -4,6 +4,7 @@ I'm a passionate full-stack developer dedicated to creating meaningful, user-foc
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idan-levi-7a8506242)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:29idan29@gmail.com)
 
 
 ## 💻 Tech Stack:
