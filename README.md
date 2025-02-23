@@ -35,11 +35,3 @@ I'm a passionate full-stack developer dedicated to creating meaningful, user-foc
 
 
 
-## 📊 GitHub Stats:
-![Idan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idanidan29&show_icons=true&theme=tokyonight)
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=idanidan29&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repo:
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=idanidan29&theme=tokyonight)](https://github.com/your-github-username)
