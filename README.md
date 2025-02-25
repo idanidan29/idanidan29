@@ -33,3 +33,5 @@ I'm a passionate full-stack developer dedicated to creating meaningful, user-foc
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=idanidan29&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
