@@ -33,6 +33,5 @@ I'm a passionate full-stack developer dedicated to creating meaningful, user-foc
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idanidan29&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=idanidan29&theme=github-dark&hide_border=true)
 
