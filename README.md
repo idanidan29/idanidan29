@@ -33,5 +33,5 @@ I'm a passionate full-stack developer dedicated to creating meaningful, user-foc
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=idanidan29&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idanidan29&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=idanidan29&label=Profile%20Views&color=blue&style=for-the-badge)
