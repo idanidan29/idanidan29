@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a passionate full-stack developer dedicated to creating meaningful, user-focused applications. From backend systems to dynamic frontend experiences, I enjoy building applications that are both functional and engaging. With a focus on clean, efficient code, I’m always excited to tackle new challenges and contribute to innovative projects.
 
+![Profile Views](https://komarev.com/ghpvc/?username=idanidan29&label=Profile%20Views&color=blue&style=for-the-badge)
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idan-levi-7a8506242)
@@ -34,4 +35,4 @@ I'm a passionate full-stack developer dedicated to creating meaningful, user-foc
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idanidan29&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=idanidan29&label=Profile%20Views&color=blue&style=for-the-badge)
+
