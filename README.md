@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate full-stack developer dedicated to creating meaningful applications. From backend systems to dynamic frontend experiences, I enjoy building applications that are both functional and engaging. With a focus on clean, efficient code, I’m always excited to tackle new challenges and contribute to innovative projects.
+I'm a passionate full-stack developer dedicated to creating meaningful applications. From backend systems to dynamic frontend experiences. With a focus on clean, efficient code, I’m always excited to tackle new challenges and contribute to innovative projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=idanidan29&label=Profile%20Views&color=blue&style=for-the-badge)
 ## 🌐 Socials:
