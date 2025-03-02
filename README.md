@@ -2,6 +2,8 @@
 I'm a passionate full-stack developer dedicated to creating meaningful applications. From backend systems to dynamic frontend experiences. With a focus on clean, efficient code, I’m always excited to tackle new challenges and contribute to innovative projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=idanidan29&label=Profile%20Views&color=blue&style=for-the-badge)
+
+<a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=idanidan29&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idan-levi-7a8506242)
