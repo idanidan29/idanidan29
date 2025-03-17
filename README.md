@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate full-stack developer dedicated to creating meaningful applications. From backend systems to dynamic frontend experiences. With a focus on clean, efficient code, I’m always excited to tackle new challenges and contribute to innovative projects.
+I'm Idan, a passionate full-stack developer dedicated to creating meaningful applications. From backend systems to dynamic frontend experiences. With a focus on clean, efficient code, I’m always excited to tackle new challenges and contribute to innovative projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idan-levi-7a8506242)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:29idan29@gmail.com)
@@ -30,7 +30,6 @@ I'm a passionate full-stack developer dedicated to creating meaningful applicati
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=idanidan29&theme=github-dark&hide_border=true)
 
