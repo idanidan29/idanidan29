@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Idan, a passionate full-stack developer dedicated to creating meaningful applications from backend systems to dynamic frontend experiences. I pride myself on writing clean, efficient code and am always excited to tackle new challenges and contribute to innovative projects. I've also contributing to open source, collaborating with diverse communities and refining my skills.
+I'm Idan, a passionate full-stack developer dedicated to creating meaningful applications from backend systems to dynamic frontend experiences. I pride myself on writing clean, efficient code and am always excited to tackle new challenges and contribute to innovative projects. I've also contributing to open source, collaborating with diverse communities and refining my skills .
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idan-levi-7a8506242)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:29idan29@gmail.com)
