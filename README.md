@@ -7,6 +7,7 @@ I'm Idan, a passionate full-stack developer dedicated to creating meaningful app
 ![Profile Views](https://komarev.com/ghpvc/?username=idanidan29&label=Profile%20Views&color=blue&style=for-the-badge)
 
 ## 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
