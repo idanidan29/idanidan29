@@ -3,6 +3,8 @@ I'm Idan, a passionate full-stack developer dedicated to creating meaningful app
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idan-levi-7a8506242)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:29idan29@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=star&logoColor=white)](http://portfolio-idanidan29s-projects.vercel.app)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=idanidan29&label=Profile%20Views&color=blue&style=for-the-badge)
 
