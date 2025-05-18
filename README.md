@@ -38,4 +38,4 @@ I'm Idan, a passionate full-stack developer dedicated to creating meaningful app
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=idanidan29&theme=github-dark&hide_border=true)
-
+ 
